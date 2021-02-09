@@ -1,4 +1,5 @@
 /*
+/*
 * Theme Name: Rudermann Countdown
 * Theme URI: http://themes.tvda.eu
 * Description: Countdown
