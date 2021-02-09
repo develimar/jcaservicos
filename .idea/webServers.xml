@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d36618c6-7a39-4387-921b-65d2efc3b387" name="JCA" url="http://ftp.jcaservicos24horas.com.br">
+        <fileTransfer host="ftp.jcaservicos24horas.com.br" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

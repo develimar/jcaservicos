@@ -50,13 +50,13 @@
 <!--				<div class="span10 offset1">-->
 <!--					<h1 class="contdown-title">We are currently working on an <span class="color-text">new awesome website</span>. Stay tuned.</h1>-->
 <!--				</div>-->
-                <div class="span2">
+                <div class="span3">
 
                 </div>
-                <div class="span8 icon-align-center">
+                <div class="span8">
                     <img src="img/logo.png" alt="Logo JCA Serviços 24 Horas">
                 </div>
-                <div class="span2">
+                <div class="span1">
 
                 </div>
 
